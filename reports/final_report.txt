@@ -1,1 +1,11 @@
+STUDENT ACADEMIC & EXPENSE REPORT
+=================================
+Total Students: 1
+Average CGPA: 8.20
+Total Expenses: ₹100.00
 
+STUDENT DETAILS
+ID: ST101 | Name: Utpal Kumar | Course: CSE | CGPA: 8.2 | Semester: 3
+
+EXPENSE DETAILS
+ID: 1 | Food | Rs.100.00 | Lunch
